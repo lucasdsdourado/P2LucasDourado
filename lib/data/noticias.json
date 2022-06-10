@@ -1,0 +1,84 @@
+[
+    {
+        "noticia": {
+            "titulo": "Receita Federal prorroga o prazo da declaração do imposto de renda",
+            "banca": "@legisweb",
+            "datapublicao": "05/04/2022",
+            "resumo": "A Receita Federal publicou no Diário Oficial da União desta terça-feira, 5 de abril, a Instrução Normativa nº 2.077, que prorroga para 31 de maio de 2022 o prazo de entrega da Declaração de IRPF.\n\nO imposto a pagar apurado também teve seu vencimento adiado para o final do mês de maio, mas as restituições seguirão o cronograma anterior, sem alteração",
+            "imagem": "lib/imagens/logo_legisweb.png"            
+        }
+    },
+    {
+        "noticia": {
+            "titulo": "Resolução prorroga para 31 de maio adesão ao Relp",
+            "banca": "@sigafisco",
+            "datapublicao": "25/04/2022",
+            "resumo": "Resolução CGSN 168/2022 prorroga para 31 de maio de 2022 o prazo de adesão ao Relp. A medida já tinha sido anunciada dia 20 de abril pelo Comitê Gestor do Simples Nacional.\n\nO Relp permite o parcelamento com reduções nos valores de juros e multas para os débitos apurados no Simples Nacional ou no Simei de períodos de apuração (PA) até 02/2022.",
+            "imagem": "lib/imagens/logo_sigaofisco.png"
+        }
+    },
+    {
+        "noticia": {
+            "titulo": "Juíza permite que empresa retire ISS, PIS e Cofins da base de cálculo de ISS",
+            "banca": "@diaadiatributario",
+            "datapublicao": "11/04/2022",
+            "resumo": "Com base na decisão do Supremo Tribunal Federal que estabeleceu que o ICMS deve ser excluído da base de cálculo do PIS/Cofins, a 12ª Vara de Fazenda Pública do Rio de Janeiro concedeu liminar para autorizar a American Bureau of Shipping a retirar os valores de ISS, PIS e Cofins da base de cálculo do seu ISS.",
+            "imagem": "lib/imagens/logo_diaadia.png"
+        }
+    },
+    {
+        "noticia": {
+            "titulo": "TIPI/2022 – Decreto Consolida Tabela com Reduções de Alíquotas",
+            "banca": "@guiatributario",
+            "datapublicao": "18/04/2022",
+            "resumo": "Por meio do Decreto 11.047/2022 foi alterada a Tabela do IPI, com vigência a partir de 01.05.2022.\n\nA nova tabela já contempla as reduções das alíquotas do IPI, previstas no Decreto 10.979/2022.",
+            "imagem": "lib/imagens/logo_guiatributario.png"
+        }
+    },
+    {
+        "noticia": {
+            "titulo": "Decisão no STF gera corrida por exclusão da Selic do PIS/Cofins",
+            "banca": "@jota",
+            "datapublicao": "26/04/2022",
+            "resumo": "A decisão do Supremo Tribunal Federal (STF) que afastou a cobrança do IRPJ e da CSLL sobre valores referentes à taxa Selic em razão de repetição de indébito tributário, isto é, da devolução de um valor pago indevidamente pelo contribuinte, levou a uma corrida de contribuintes ao Judiciário para defender a não incidência do PIS e da Cofins sobre essas verbas.\n\nO principal argumento dos advogados é que os valores recebidos a título de Selic não representam receita nova para as empresas e, portanto, não podem compor a base de cálculo do PIS e da Cofins.",
+            "imagem": "lib/imagens/logo_jota.png"
+        }
+    },
+    {
+        "noticia": {
+            "titulo": "Transmissão da ecd 2022 poderá gerar alerta",
+            "banca": "@ewb",
+            "datapublicao": "26/04/2022",
+            "resumo": "A maior novidade para essa entrega está na publicação da Nota Técnica ECD nº 001, que dispõe sobre nova regra de transmissão da obrigatoriedade relativa à aptidão do profissional contábil conforme registros do Conselho Federal de Contabilidade – CFC.\n\nA NT ECD nº 001 enfatiza que, de acordo com a legislação em vigor, somente contadores e técnicos em contabilidade com registro em um Conselho Regional de Contabilidade – CRC podem exercer a profissão contábil e a partir disso, faz um alerta: “ECD transmitidas a partir de 2022 poderão receber um aviso na transmissão identificando profissionais contábeis assinantes da escrituração que constam como ‘inaptos’ segundo os registros do CFC”.",
+            "imagem": "lib/imagens/logo_easyway.png"
+        }
+    },
+    {
+        "noticia": {
+            "titulo": "Governo adia envio dos dados de órgãos públicos para o eSocial",
+            "banca": "@contadorescnt",
+            "datapublicao": "26/04/2022",
+            "resumo": "O governo federal adiou as datas de envio de informações de órgãos públicos, bem como das organizações internacionais, para o eSocial.\n\nO grupo gestor do eSocial atendeu pedido de representantes de estados e municípios que ainda não estão preparados para os compromissos do sistema de escrituração digital",
+            "imagem": "lib/imagens/logo_contadorescnt.png"
+
+        }
+    },
+    {
+        "noticia": {
+            "titulo": "Em terceiro repasse de ICMS de abril, Sefaz-SP transfere R$ 1,5 bilhão aos municípios",
+            "banca": "@fazendasp",
+            "datapublicao": "26/04/2022",
+            "resumo": "A Secretaria da Fazenda e Planejamento do Estado de São Paulo (Sefaz-SP) transfere, nesta terça-feira (26), R$ 1,53 bilhão aos caixas dos 645 municípios paulistas. O depósito é referente ao montante de ICMS arrecadado de 18 a 22 de abril. \n\nOs valores correspondem a 25% da arrecadação do imposto, que são distribuídos às administrações municipais com base na aplicação do Índice de Participação dos Municípios (IPM) definido para cada cidade.",
+            "imagem": "lib/imagens/logo_fazendasp.png"
+        }
+    },
+    {
+        "noticia": {
+            "titulo": "Banco Central: servidores suspendem greve até início de maio e aguardam proposta do governo",
+            "banca": "@contabeis",
+            "datapublicao": "20/04/2022",
+            "resumo": "A greve dos servidores do Banco Central (BC) foi suspensa até o início de maio. A decisão da categoria foi anunciada em assembleia realizada nesta terça-feira (19). Apesar da pausa, os funcionários do BC dizem que darão continuidade a paralisações parciais diárias e à operação-padrão iniciada em 17 de março.\n\nOs servidores do BC deram como prazo até 2 de maio para que o governo apresente uma proposta de aumento salarial melhor do que os 5% oferecidos para todos os servidores federais. ",
+            "imagem": "lib/imagens/contabeis.png"
+        }
+    }
+]

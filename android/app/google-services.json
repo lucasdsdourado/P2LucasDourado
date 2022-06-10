@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "402215629825",
+    "project_id": "fiscalnews-6a2d9",
+    "storage_bucket": "fiscalnews-6a2d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402215629825:android:ac39e276d28b6cb6013c00",
+        "android_client_info": {
+          "package_name": "com.example.app_006_p1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402215629825-33dprepkcnisc9sg7mb70ofu3l8bivpg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-Xlnya2nuvgx6IDaiAFCD6kWWb-eILwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402215629825-33dprepkcnisc9sg7mb70ofu3l8bivpg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
